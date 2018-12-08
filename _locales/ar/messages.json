@@ -53,6 +53,9 @@
 	"optionsUserscriptsSubtitle": {
 		"message": "سيكون من الرائع إذا كنت تستطيع تقديم \"متجاوزات\" تعمل إلي GitHub، حتي يستطيع اﻵخرين اﻹستفادة منها:"
 	},
+	"optionsUserscriptsUntitled": {
+		"message": "متجاوز بلا اسم"
+	},
 	"optionsUserscriptsName": {
 		"message": "الاسم. إذا كان الاسم فارغ هذا المتجاوز سوف يتم مسحه."
 	},
@@ -63,7 +66,7 @@
 		"message": "حذف التجاوز"
 	},
 	"optionsUserscriptsDeleteConfirm": {
-		"message": "هل تريد حذف هذا الـbypass؟"
+		"message": "هل تريد حذف هذا المتجاوز؟"
 	},
 	"blockedTitle": {
 		"message": "المتجاوز الشامل قد منع تسجيل عنوان الIP الخاص بك."
@@ -74,6 +77,9 @@
 	"crowdBypassed": {
 		"message": "ربما لن تحتاج للانتظار بعد الان!"
 	},
+	"crowdBypassedInfo": {
+		"message": "قام مستخدمون آخرون للمتجاوز الشامل بالانتظار بدلا منك والتبليع بأن هذا يؤدي إلى %"
+},
 	"crowdBypassedIgnore": {
 		"message": "ليس هذا صحيحاً؟"
 	}
